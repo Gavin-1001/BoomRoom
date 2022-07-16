@@ -1,5 +1,6 @@
 import React,{Component}from"react";
 import{render}from"react-dom";
+import homepage from "./homepage";
 
 
 export default class App extends Component{
